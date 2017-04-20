@@ -1,2 +1,2 @@
-this is a file.
+this is a backup file.
 its name is file1.
