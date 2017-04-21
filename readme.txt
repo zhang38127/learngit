@@ -7,3 +7,7 @@ My stupid boss still prefers SVN.
 creating a new branch 'dev' is quick and simple.
 change bug test.
 add a line.
+change
+read
+read
+another dev
